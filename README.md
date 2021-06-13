@@ -1,5 +1,5 @@
-## 👋 Hello my dear gorgeous friends! 👋
-## I am Sanji Pun, React JS developer based on Kathmandu Nepal.
+###👋 Hello my dear gorgeous friends! 👋
+### I am Sanji Pun, React JS developer based on Kathmandu Nepal.
 ### Love to talk with you about the recent trends on Frontend technologies and stuffs.
 #### Connect with me @ iamsanjaypun@gmail.com. 
 #### 🦸
