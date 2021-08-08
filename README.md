@@ -1,6 +1,6 @@
 ### 👋 Hello my dear gorgeous friends! 👋
 #### I am Sanjay Pun, React JS developer based on Kathmandu Nepal.
-## Currently Looking for Opportunity. <3
+## Frontend Developer at Royalprotocol.io
 #### Love to talk with you about the recent trends on Frontend technologies and stuffs.
 #### Connect with me @ iamsanjaypun@gmail.com. 
 #### 🦸 🦸‍♂️ 🦹
