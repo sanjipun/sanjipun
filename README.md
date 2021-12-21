@@ -1,5 +1,5 @@
 ### 👋 Hello friends! 👋
-#### I am Sanjay Pun, React JS developer based on Kathmandu Nepal. (9 months of experience in React).
+#### I am Sanjay Pun, React JS developer based on Kathmandu Nepal.
 #### Interested in and Learning Frontend Technologies, Blockchain, Solidity, Smart Contracts, Web3 and More.
 #### Connect with me @ iamsanjaypun@gmail.com. 
 #### 🦸 🦸‍♂️ 🦹
