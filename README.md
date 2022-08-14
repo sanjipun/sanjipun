@@ -11,7 +11,6 @@ Potato
 <p style="min-width:320px;width:50%">
 <img src="https://github-readme-stats-rbsfoqutz-dlppdl.vercel.app/api/top-langs/?username=sanjipun&layout=compact&theme=vision-friendly-dark" alt="Github Language Stats">
 </p>
--->
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanjipun24) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanji-pun) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sopcil) 
