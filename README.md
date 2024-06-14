@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanji Pun</h1>
 <h3 align="center">A Front-end developer bringing ideas to life with React.</h3>
-
+<img align="right" alt="coding" width="400" src="https://komarev.com/ghpvc/?username=sanjipun&label=Profile%20views&color=0e75b6&style=flat" alt="sanjipun" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjipun&label=Profile%20views&color=0e75b6&style=flat" alt="sanjipun" /> </p>
 
 - 🌱 I’m currently learning **ML/AI**
