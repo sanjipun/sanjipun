@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjipun&label=Profile%20views&color=0e75b6&style=flat" alt="sanjipun" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjipun" alt="sanjipun" /></a> </p>
-
 - 🌱 I’m currently learning **ML/AI**
 
 - 👨‍💻 All of my projects are available at [sanjipun.com](sanjipun.com)
