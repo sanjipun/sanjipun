@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **iamsanjaypun@gmail.com**
 
-- 📄 Know about my experiences [sanjipun.com](sanjipun.com)
+- 📄 Know about my experiences [sanjipun.com](https://sanjipun.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
