@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently learning **ML/AI**
 
-- 👨‍💻 All of my projects are available at [sanjipun.com](sanjipun.com)
+- 👨‍💻 All of my projects are available at [sanjaykumarpun.com.np](https://sanjaykumarpun.com.np)
 
 - 💬 Ask me about **REACT, NEXT, GATSBY, STRAPI, DJANGO, VANILLA JS**
 
 - 📫 How to reach me **iamsanjaypun@gmail.com**
 
-- 📄 Know about my experiences [sanjipun.com](https://sanjipun.com)
+- 📄 Know about my experiences [sanjaykumarpun.com.np](https://sanjaykumarpun.com.np)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
